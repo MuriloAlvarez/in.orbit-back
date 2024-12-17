@@ -26,5 +26,3 @@ async function seed() {
 seed().finally(() => {
   client.end();
 });
-
-// 56:27 paramos a aula
